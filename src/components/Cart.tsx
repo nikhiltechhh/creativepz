@@ -402,7 +402,7 @@ const products: Product[] = [
   image: Pic44,
   images: [Pic44],
   category: "Cushion",
-  description: "Cute panda themed cushion for kids’ room or gifting purposes."
+  description: "Cute panda themed cushion for kids' room or gifting purposes."
 },
 {
   id: 30,
@@ -448,7 +448,7 @@ const products: Product[] = [
   image: Pic62,
   images: [Pic62],
   category: "Combo",
-  description: "High-quality acrylic wall frame with 18×24 size and free studs."
+  description: "High-quality acrylic wall frame with 18x24 size and free studs."
 },
 {
   id: 35,
@@ -457,7 +457,7 @@ const products: Product[] = [
   image: Pic63,
   images: [Pic63,Pic64,Pic65,Pic66],
   category: "Frame",
-  description: "Custom-designed tabletop frames for your favorite memories."
+  description: "Custom designed tabletop frames for your favorite memories."
 },
 {
   id: 36,
