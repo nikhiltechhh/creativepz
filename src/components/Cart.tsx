@@ -453,7 +453,7 @@ const products: Product[] = [
 {
   id: 35,
   name: "Table Top Frames",
-  price: 2400,
+  price: 550,
   image: Pic63,
   images: [Pic63,Pic64,Pic65,Pic66],
   category: "Frame",
